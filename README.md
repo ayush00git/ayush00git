@@ -37,19 +37,4 @@ Passionate about building things for the web, exploring **open source**, and lea
 
 ---
 
-## GitHub Stats
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush00git\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush00git\&layout=compact)
-
----
-
-## Let's Connect
-
-* Open to collaborations and open-source contributions
-* Always eager to learn and share knowledge
-
----
-
 *Feel free to explore my repositories and connect with me!*

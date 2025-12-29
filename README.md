@@ -61,17 +61,6 @@
   </tr>
 </table>
 
-<h3>GitHub Analytics</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush00git&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=graywhite" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush00git&layout=compact&hide_title=true&theme=graywhite" height="150" alt="languages graph" />
-</div>
-
-<h3>Contribution Streak</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush00git&theme=graywhite&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <h3>Recent Activity</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush00git&theme=github-compact" alt="Activity Graph" />

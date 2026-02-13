@@ -4,6 +4,8 @@ I'm a student developer with a deep curiosity for **Backend Core**, **Linux**, *
 While my primary focus is on building robust systems, I love switching to "Vibe Coding" mode for UI/UX design as a creative break.
 
 You can check out my work at - [Portfolio](https://ayushz.me)
+
+My resume - [Resume](https://drive.google.com/file/d/1ygBlfWW2AL3rd8YXxCXrQWABzklvgMDb/view?usp=sharing)
 ## Current Learning Goals
 * Diving deeper into **System Design** and **Linux Internals**.
 * Exploring advanced distributed systems patterns.

@@ -31,6 +31,11 @@ When I'm not at the terminal, you can find me:
 * Listening to music
 * Designing merch (some of my designs have over 100+ prints!)
 
+## Projects
+* [cbot](https://github.com/ayush00git/cbot) - An AI-assistant on your cli, made for nerds who don't want to leave their terminal for getting answers to their queries.
+* [lowkey](https://github.com/ayush00git/lowkey) - A p2p and e2e chat application, chat one time, no digital footprints left.
+* (Find my best work in pins)
+
 ## GitHub Stats
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush00git&theme=react-dark" alt="Activity Graph" />

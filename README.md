@@ -34,6 +34,7 @@ When I'm not at the terminal, you can find me:
 ## Projects
 * [cbot](https://github.com/ayush00git/cbot) - An AI-assistant on your cli, made for nerds who don't want to leave their terminal for getting answers to their queries.
 * [lowkey](https://github.com/ayush00git/lowkey) - A p2p and e2e chat application, chat one time, no digital footprints left.
+* [My Portfolio](https://github.com/ayush00git/portfolio-site) - My portfolio site.
 * (Find my best work in pins)
 
 ## GitHub Stats

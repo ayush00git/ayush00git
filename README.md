@@ -8,11 +8,12 @@ My resume - [Resume](https://drive.google.com/file/d/1ygBlfWW2AL3rd8YXxCXrQWABzk
 ## Current Learning Goals
 * Diving deeper into **System Design** and **Linux Internals**.
 * Exploring advanced distributed systems patterns.
-* Learn advanced Go
+* Learn advanced Go.
+---
 Here's where I'm implementing these learnings to learn them consistenly while building stuff.
 * [Advanced Go and System Design](https://github.com/ayush00git/laca-web/tree/dev/gin) - Migrating the laca-web from nodejs SSR to Gin. I felt like the site's architecture in Nodejs was likely slower, and migrating it to Gin would increase the performance, when the site goes live again for the new batch.
 * [Exploring advanced distributed systems patterns](https://github.com/apache/fory) - I'm a regular contributor to the Apache Fory, an open source serialization framework, mainly contributing to the Go, JavaScript and Dart runtime of the framework. It teaches me a lot about how distributed systems, microservices actually communicate, and how the big systems actually scale and improve their performance.
-
+---
 ## Tech Stack
 
 | Category | Technologies |

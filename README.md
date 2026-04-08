@@ -32,9 +32,18 @@ When I'm not at the terminal, you can find me:
 * Designing merch (some of my designs have over 100+ prints!)
 
 ## Projects
-* [cbot](https://github.com/ayush00git/cbot) - An AI-assistant on your cli, made for nerds who don't want to leave their terminal for getting answers to their queries.
-* [lowkey](https://github.com/ayush00git/lowkey) - A p2p and e2e chat application, chat one time, no digital footprints left.
-* [My Portfolio](https://github.com/ayush00git/portfolio-site) - My portfolio site.
+* [ProtPocket](https://github.com/ayush00git/ProtPocket) - a tool which makes protein drug research easier.
+* [apache/fory](https://github.com/apache/fory) - an open source serialization framework under the Apache Software Foundation, my favourite spot to do open source.
+* [laca-web](https://github.com/ayush00git/laca-web) - official website of NIT Hamirpur for registration under the LA/CA (electives) courses.
+* [goth](https://github.com/ayush00git/goth) - a production grade go authentication microservice (in development).
+* [The Nerds Community](https://github.com/ayush00git/TNC) - a community to create a peer of like-minds. (the nerds)
+* [gothctl](https://github.com/ayush00git/gothctl) - a cli tool built using cobra and viper to handle the goth microservice.
+* [appteam-web](https://github.com/ayush00git/appteam-web) - official website of App Team, the core club of CSE department, NIT Hamirpur.
+* [cbot](https://github.com/ayush00git/cbot) - an AI-assistant on your cli, made for nerds who don't want to leave their terminal for getting answers to their queries.
+* [lowkey](https://github.com/ayush00git/lowkey) - a p2p and e2e chat application, chat one time, no digital footprints left.
+* [Portfolio](https://github.com/ayush00git/portfolio-site) - my personal portfolio site.
+* [gh-widget](https://github.com/ayush00git/gh-widget) - a custom gihub contributions widget chart for android, but the cool way.
+* [DezNov](https://github.com/ayush00git/DezNov) - a space to share your projects with the community.
 * (Find my best work in pins)
 
 ## GitHub Stats

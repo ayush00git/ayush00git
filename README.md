@@ -1,7 +1,9 @@
 # Hi there! I'm Ayush 👋
 
 Computer Science undergraduate at NIT Hamirpur and more importantly a developer focused on backend development, Linux, system design, and open-source. I enjoy designing robust, scalable systems and occasionally explore UI/UX design to balance engineering with creativity.
-- I have worked on two major releases of [Apache Fory](https://hithub.com/apache/fory) - [v0.16.0](https://github.com/apache/fory/releases/tag/v0.16.0) and [v0.15.0](https://github.com/apache/fory/releases/tag/v0.15.0). The framework is widely used by companies like Ant Group, Alibaba Group, ByteDance (company behind Seedance models) and more..
+- I have worked on two major releases of [Apache Fory](https://github.com/apache/fory) - [v0.16.0](https://github.com/apache/fory/releases/tag/v0.16.0) and [v0.15.0](https://github.com/apache/fory/releases/tag/v0.15.0). The framework is widely used by companies like Ant Group, Alibaba Group, ByteDance (company behind Seedance models) and more..
+- I'm currently working on the development of an official service/management system of NIT Hamirpur under its Estate Office. Code will be open source soon :)
+- I'm currently contributing to the new major release of Apache Fory.
 - Check out my work at - [Portfolio](https://ayushz.me)
 - My resume - [Resume](https://drive.google.com/file/d/1ygBlfWW2AL3rd8YXxCXrQWABzklvgMDb/view?usp=sharing)
 ## Current Learning Goals
@@ -44,7 +46,7 @@ When I'm not at the terminal, you can find me:
 * [cbot](https://github.com/ayush00git/cbot) - an AI-assistant on your cli, made for nerds who don't want to leave their terminal for getting answers to their queries.
 * [lowkey](https://github.com/ayush00git/lowkey) - a p2p and e2e chat application, chat one time, no digital footprints left.
 * [Portfolio](https://github.com/ayush00git/portfolio-site) - my personal portfolio site.
-* [gh-widget](https://github.com/ayush00git/gh-widget) - a custom gihub contributions widget chart for android, but the cool way.
+* [gh-widget](https://github.com/ayush00git/gh-widget) - a custom github contributions widget chart for android, but the cool way.
 * [DezNov](https://github.com/ayush00git/DezNov) - a space to share your projects with the community.
 * (Find my best work in pins)
 

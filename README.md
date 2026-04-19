@@ -1,9 +1,9 @@
 # Hi there! I'm Ayush 👋
 
 Computer Science undergraduate at NIT Hamirpur and more importantly a developer focused on backend development, Linux, system design, and open-source. I enjoy designing robust, scalable systems and occasionally explore UI/UX design to balance engineering with creativity.
-- I have worked on two major releases of [Apache Fory](https://github.com/apache/fory) - [v0.16.0](https://github.com/apache/fory/releases/tag/v0.16.0) and [v0.15.0](https://github.com/apache/fory/releases/tag/v0.15.0). The framework is widely used by companies like Ant Group, Alibaba Group, ByteDance (company behind Seedance models) and more..
+- I have worked on two major releases of [Apache Fory](https://github.com/apache/fory) - [v0.17.0](https://github.com/apache/fory/releases/tag/v0.17.0) [v0.16.0](https://github.com/apache/fory/releases/tag/v0.16.0) and [v0.15.0](https://github.com/apache/fory/releases/tag/v0.15.0). The framework is widely used by companies like Ant Group, Alibaba Group, ByteDance (company behind Seedance models) and more..
 - I'm currently working on the development of an official service/management system of NIT Hamirpur under its Estate Office. Code will be open source soon :)
-- I'm currently contributing to the new major release of Apache Fory.
+- I'm currently contributing to the new major release of [Apache Fory](https://github.com/apache/fory).
 - Check out my work at - [Portfolio](https://ayushz.me)
 - My resume - [Resume](https://drive.google.com/file/d/1ygBlfWW2AL3rd8YXxCXrQWABzklvgMDb/view?usp=sharing)
 ## Current Learning Goals

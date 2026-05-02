@@ -8,6 +8,7 @@ Computer Science undergraduate at NIT Hamirpur and a developer focused on backen
 - Check out my work at - [Portfolio](https://ayushz.me)
 - My resume - [Resume](https://drive.google.com/file/d/1ygBlfWW2AL3rd8YXxCXrQWABzklvgMDb/view?usp=sharing)
 ## Current Learning Goals
+* Learn Agentic AI
 * Diving deeper into **System Design** and **Linux Internals**.
 * Exploring advanced distributed systems patterns.
 * Learn advanced Go.

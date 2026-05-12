@@ -12,6 +12,7 @@ Computer Science undergraduate at NIT Hamirpur and a developer focused on backen
 * Diving deeper into **System Design** and **Linux Internals**.
 * Exploring advanced distributed systems patterns.
 * Learn advanced Go.
+* Learn Data Strcutures (i suck at them)
 ---
 Here's where I'm implementing these learnings to learn them consistenly while building stuff.
 * [Advanced Go and System Design](https://github.com/ayush00git/laca-web/tree/dev/gin) - Migrating the laca-web from nodejs SSR to Gin. I felt like the site's architecture in Nodejs was likely slower, and migrating it to Gin would increase the performance, when the site goes live again for the new batch.

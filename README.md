@@ -28,18 +28,13 @@ Here's where I'm implementing these learnings to learn them consistenly while bu
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-### Vibe Code
-> **The React Ecosystem** (Adaptable to anything)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
 ## Beyond Code
 When I'm not at the terminal, you can find me:
 * Listening to music
 * Designing merch (some of my designs have over 100+ prints!)
 
 ## Projects
-* [ProtPocket](https://github.com/ayush00git/ProtPocket) - a tool which makes protein drug research easier.
+* [ProtPocket](https://github.com/ayush00git/ProtPocket) (It's been private for a while due to some more integrations, will set it public soon) - a tool which makes protein drug research easier.
 * [apache/fory](https://github.com/apache/fory) - an open source serialization framework under the Apache Software Foundation, my favourite spot to do open source.
 * [laca-web](https://github.com/ayush00git/laca-web) - official website of NIT Hamirpur for registration under the LA/CA (electives) courses.
 * [goth](https://github.com/ayush00git/goth) - a production grade go authentication microservice (in development).
@@ -52,8 +47,3 @@ When I'm not at the terminal, you can find me:
 * [gh-widget](https://github.com/ayush00git/gh-widget) - a custom github contributions widget chart for android, but the cool way.
 * [DezNov](https://github.com/ayush00git/DezNov) - a space to share your projects with the community.
 * (Find my best work in pins)
-
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush00git&theme=react-dark" alt="Activity Graph" />
-</p>

@@ -6,7 +6,7 @@ Computer Science undergraduate at NIT Hamirpur and a developer focused on backen
 - I'm currently working on the development of an official service/management system of NIT Hamirpur under its Estate Office. Code will be open source soon :)
 - I'm currently contributing to the next release (v1.1.0) of [Apache Fory](https://github.com/apache/fory).
 - Check out my work at - [Portfolio](https://ayushz.me)
-- My resume - [Resume](https://drive.google.com/file/d/1ygBlfWW2AL3rd8YXxCXrQWABzklvgMDb/view?usp=sharing)
+- My resume - [Resume](https://drive.google.com/file/d/1i9Rjj0JUh2RSKujRS6btRYeZHylArHQl/view?usp=sharing)
 ## Current Learning Goals
 * Learn Agentic AI
 * Diving deeper into **System Design** and **Linux Internals**.

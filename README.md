@@ -4,9 +4,9 @@ Computer Science undergraduate at NIT Hamirpur and a developer focused on backen
 - I have worked on three releases of [Apache Fory](https://github.com/apache/fory) - [v0.17.0](https://github.com/apache/fory/releases/tag/v0.17.0), [v0.16.0](https://github.com/apache/fory/releases/tag/v0.16.0) and [v0.15.0](https://github.com/apache/fory/releases/tag/v0.15.0) including its first ever major release [v1.0.0](https://github.com/apache/fory/releases/tag/v1.0.0). The framework is widely used by companies like Ant Group, Alibaba Group, ByteDance (company behind Seedance models, TikTok and which owns the video editing tool you must know "CapCut") and more..
 - Currently developing something big.
 - I'm currently working on the development of an official service/management system of NIT Hamirpur under its Estate Office. Code will be open source soon :)
-- I'm currently contributing to the next release (v1.1.0) of [Apache Fory](https://github.com/apache/fory).
+- I'm currently contributing to the next release (v1.2.0) of [Apache Fory](https://github.com/apache/fory).
 - Check out my work at - [Portfolio](https://ayushz.me)
-- My resume - [Resume](https://drive.google.com/file/d/1i9Rjj0JUh2RSKujRS6btRYeZHylArHQl/view?usp=sharing)
+- My resume - [Resume](https://drive.google.com/file/d/1hocYWUEIPINgFh6mUfeMImRo1ork7KJz/view?usp=sharing)
 ## Current Learning Goals
 * Learn Agentic AI
 * Diving deeper into **System Design** and **Linux Internals**.

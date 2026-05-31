@@ -3,7 +3,7 @@
 Computer Science undergraduate at NIT Hamirpur and a developer focused on backend development, Linux, system design, and open-source. I enjoy designing robust, scalable systems and occasionally explore UI/UX design to balance engineering with creativity.
 - I have worked on three releases of [Apache Fory](https://github.com/apache/fory) - [v0.17.0](https://github.com/apache/fory/releases/tag/v0.17.0), [v0.16.0](https://github.com/apache/fory/releases/tag/v0.16.0) and [v0.15.0](https://github.com/apache/fory/releases/tag/v0.15.0) including its first ever major release [v1.0.0](https://github.com/apache/fory/releases/tag/v1.0.0). The framework is widely used by companies like Ant Group, Alibaba Group, ByteDance (company behind Seedance models, TikTok and which owns the video editing tool you must know "CapCut") and more..
 - Currently developing something big.
-- I'm currently working on the development of an official service/management system of NIT Hamirpur under its Estate Office. Code will be open source soon :)
+- I'm currently working on the development of an official service/management system of NIT Hamirpur under its Estate Office. Code will be open source soon (it is now !) :)
 - I'm currently contributing to the next release (v1.2.0) of [Apache Fory](https://github.com/apache/fory).
 - Check out my work at - [Portfolio](https://ayushz.me)
 - My resume - [Resume](https://drive.google.com/file/d/1hocYWUEIPINgFh6mUfeMImRo1ork7KJz/view?usp=sharing)
@@ -21,6 +21,7 @@ Here's where I'm implementing these learnings to learn them consistenly while bu
 ## Projects
 * [ProtPocket](https://github.com/ayush00git/ProtPocket) (It's been private for a while due to some more integrations, will set it public soon) - a tool which makes protein drug research easier.
 * [apache/fory](https://github.com/apache/fory) - an open source serialization framework under the Apache Software Foundation, my favourite spot to do open source.
+* [cm-web](https://github.com/ayush00git/cms-web) - an official service/management system of NIT Hamirpur for construction cell complaints under its Estate Office.
 * [laca-web](https://github.com/ayush00git/laca-web) - official website of NIT Hamirpur for registration under the LA/CA (electives) courses.
 * [goth](https://github.com/ayush00git/goth) - a production grade go authentication microservice (in development).
 * [The Nerds Community](https://github.com/ayush00git/TNC) - a community to create a peer of like-minds. (the nerds)

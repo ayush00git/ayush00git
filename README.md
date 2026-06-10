@@ -21,7 +21,7 @@ Here's where I'm implementing these learnings to learn them consistenly while bu
 ## Projects
 * [ProtPocket](https://github.com/ayush00git/ProtPocket) (It's been private for a while due to some more integrations, will set it public soon) - a tool which makes protein drug research easier.
 * [apache/fory](https://github.com/apache/fory) - an open source serialization framework under the Apache Software Foundation, my favourite spot to do open source.
-* [cm-web](https://github.com/ayush00git/cms-web) - an official service/management system of NIT Hamirpur for construction cell complaints under its Estate Office.
+* [cms-web](https://github.com/ayush00git/cms-web) - an official service/management system of NIT Hamirpur for construction cell complaints under its Estate Office.
 * [laca-web](https://github.com/ayush00git/laca-web) - official website of NIT Hamirpur for registration under the LA/CA (electives) courses.
 * [goth](https://github.com/ayush00git/goth) - a production grade go authentication microservice (in development).
 * [The Nerds Community](https://github.com/ayush00git/TNC) - a community to create a peer of like-minds. (the nerds)

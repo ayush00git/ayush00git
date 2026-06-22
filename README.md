@@ -1,12 +1,13 @@
 # Hi there! I'm Ayush 👋
 
-Computer Science undergraduate at NIT Hamirpur and a developer focused on backend development, Linux, system design, and open-source. I enjoy designing robust, scalable systems and occasionally explore UI/UX design to balance engineering with creativity.
+Computer Science undergraduate at NIT Hamirpur and an [Apache](https://github.com/apache) Committer. I'm a developer focused on backend development, Linux, system design, and open-source. I enjoy designing robust, scalable systems and occasionally explore UI/UX design to balance engineering with creativity.
 - I have worked on multiple releases of [Apache Fory](https://github.com/apache/fory) - [v0.15.0](https://github.com/apache/fory/releases/tag/v0.15.0) to [v0.17.0](https://github.com/apache/fory/releases/tag/v0.17.0) including its first ever major release [v1.0.0](https://github.com/apache/fory/releases/tag/v1.0.0). The framework is widely used by companies like Ant Group, Alibaba Group, ByteDance (company behind Seedance models, TikTok and which owns the video editing tool you must know "CapCut") and more..
 - Currently developing something big.
-- I'm currently working on the development of an official service/management system of NIT Hamirpur under its Estate Office. Code will be open source soon (it is now !) :)
+- I'm currently working on the development of an official service/management system of NIT Hamirpur under its Estate Office.
 - I'm currently contributing to the next release of [Apache Fory](https://github.com/apache/fory).
 - Check out my work at - [Portfolio](https://ayushz.me)
 - My resume - [Resume](https://drive.google.com/file/d/1hocYWUEIPINgFh6mUfeMImRo1ork7KJz/view?usp=sharing)
+- Reach me - ayush.2007.iit@gmail.com or ayyush@apache.org
 ## Current Learning Goals
 * Learn Agentic AI.
 * Learn core MCP architecture.

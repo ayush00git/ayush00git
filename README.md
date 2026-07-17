@@ -7,7 +7,7 @@ Computer Science undergraduate at NIT Hamirpur and an [Apache](https://github.co
 - I'm currently contributing to the next release of [Apache Fory](https://github.com/apache/fory).
 - Check out my work at - [Portfolio](https://ayushz.me)
 - My resume - [Resume](https://drive.google.com/file/d/1hocYWUEIPINgFh6mUfeMImRo1ork7KJz/view?usp=sharing)
-- Reach me - ayush.2007.iit@gmail.com or ayyush@apache.org
+- Reach me - ayyushkumar07@gmail.com or ayyush@apache.org
 ## Current Learning Goals
 * Learn Agentic AI.
 * Learn core MCP architecture.

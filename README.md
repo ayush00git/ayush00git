@@ -44,7 +44,7 @@ Here's where I'm implementing these learnings to learn them consistenly while bu
 | :--- | :--- |
 | **Languages** | Go · TypeScript · JavaScript · C · C++ · Python |
 | **Backend** | Gin · Node.js · Express.js · gRPC · net/http · Cobra · Viper · EJS |
-| **MCP** | Model Context Protocol |
+| **AI** | Model Context Protocol · RAG |
 | **Cloud & DevOps** | AWS · Docker · Linux · Nginx |
 | **Database/ORM** | MongoDB · PostgreSQL · Redis · GORM |
 | **Tools** | Git · Figma · Postman |

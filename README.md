@@ -5,7 +5,7 @@ Computer Science undergraduate at NIT Hamirpur and an [Apache](https://github.co
 - Currently developing something big.
 - I'm currently working on the development of an official service/management system of NIT Hamirpur under its Estate Office.
 - I'm currently contributing to the next release of [Apache Fory](https://github.com/apache/fory).
-- Check out my work at - [Portfolio](https://ayushz.me)
+- Check out my work at - [Portfolio](https://ayyush.dev)
 - My resume - [Resume](https://drive.google.com/file/d/1hocYWUEIPINgFh6mUfeMImRo1ork7KJz/view?usp=sharing)
 - Reach me - ayyushkumar07@gmail.com or ayyush@apache.org
 ## Current Learning Goals

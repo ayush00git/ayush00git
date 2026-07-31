@@ -37,7 +37,7 @@ Here's where I'm implementing these learnings to learn them consistenly while bu
 * [Portfolio](https://github.com/ayush00git/portfolio-site) - my personal portfolio site.
 * [gh-widget](https://github.com/ayush00git/gh-widget) - a custom github contributions widget chart for android, but the cool way.
 * [DezNov](https://github.com/ayush00git/DezNov) - a space to share your projects with the community.
-* cortex(in development) - memory brain for your AI agents, it never forgets just keeps iterating, so you don't have to.
+* [cortex](https://github.com/ayush00git/cortex) - memory brain for your AI agents, it never forgets just keeps iterating, so you don't have to.
 * (Find my best work in pins)
 ---
 ## Tech Stack

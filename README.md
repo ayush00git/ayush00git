@@ -20,7 +20,7 @@ Here's where I'm implementing these learnings to learn them consistenly while bu
 * **Exploring advanced distributed systems patterns and AI Infrastructure** - I'm a regular contributor to the [Apache Fory](https://github.com/apache/fory), an open source serialization framework, mainly contributing to the Go, JavaScript and Dart runtime of the framework. It teaches me a lot about how distributed systems, microservices actually communicate.
 ---
 ## Projects
-* **wisp** - It's the most silent, light-weight resident of kernel. hacks your system, giving it AI's intelligence from the kernel level. Only shipped for Linux yet. No plans to make it open source yet.
+* [wisp](https://wisp.ayyush.dev/) - It's the most silent, light-weight resident of kernel. hacks your system, giving it AI's intelligence from the kernel level. Only shipped for Linux yet. No plans to make it open source yet.
 * [stanza](https://github.com/ayush00git/stanza) - A structure-based, resistance-aware pipeline that designs and screens small molecules against covalent and steric resistance mutations. feat. Claude: Life Sciences Hackathon.
 * [apache/fory](https://github.com/apache/fory) - JIT based serialization framework under the ASF Foundation, my favourite spot to do open source. Beats much of the other serialization frameworks by a huge margins.
 * [cms-web](https://github.com/ayush00git/cms-web) - an official service/management system of NIT Hamirpur for construction cell complaints under its Estate Office. It would serve around 1000+ users including faculties, wardens, centreheads and non-teaching staff of NIT Hamirpur.
